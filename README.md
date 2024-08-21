@@ -9,14 +9,15 @@ This repository was created as a way of logging the teachings from the video "Se
 Create an auto-logging file that will automatically add a new line with a date-time stamp to itself everytime you open it. Very useful to keep track of your activities and timesheet. Just add .LOG at the first line and leave it there.
 
 ## Secret #2
+### F5 - or - Menu Edit > Time/Date
 
-F5 - or - Menu Edit > Time/Date - This will add a date/time stamp to your current document.
+This will add a date/time stamp to your current document.
 
 ## Secret #3
+### Character codes on page setup
 
-Menu File > Page Setup, in the Header and Footer sections.
+Go to menu File > Page Setup, in the Header and Footer sections and add one or more of the following:
 
-### Character codes:
 - &L - Will left-align any characters that follow it.
 - &C - Will center any characters that follow it.
 - &R - Will right-align any characters that follow it.
@@ -27,6 +28,8 @@ Menu File > Page Setup, in the Header and Footer sections.
 
 
 ## Secret #4
+### Command Line Arguments
+
+Very useful for any operation that deals with text files from command line or automates this kind of activity. Can be a powerful alternative for using along with scripts that deal with text files.
 
 
-Command Line Arguments
