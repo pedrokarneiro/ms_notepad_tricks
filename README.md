@@ -45,5 +45,14 @@ Or you can go to menu File > Open..., and choose the desired Encoding option.
 
 This will print the file_p.txt to your default printer.
 
-#### notepad /A example_a.txt
+#### notepad /PT example_pt.txt whateverPtinterName someDriver.dll
+
+This one you will have to test and then tell me what this is about.
+
+#### notepad /.SETUP
+
+This one also you will have to test and then tell me what this is about.
+It opens a kind of dummy unclickable window. Maybe it was used for some kind of Windows setup in the past or in the present? Who knows?
+
+
 
