@@ -32,4 +32,18 @@ Go to menu File > Page Setup, in the Header and Footer sections and add one or m
 
 Very useful for any operation that deals with text files from command line or automates this kind of activity. Can be a powerful alternative for using along with scripts that deal with text files.
 
+#### notepad /A file_a.txt
+
+This one will open file_a.txt with ANSI encoding. Or you can go to menu File > Open..., and choose the desired Encoding option.
+
+#### notepad /W example_w.txt
+
+This one will open file_w.txt with UTF-16 LE encoding (at least in my computer). Can you help me explain this command line better?
+Or you can go to menu File > Open..., and choose the desired Encoding option.
+
+#### notepad /P example_p.txt
+
+This will print the file_p.txt to your default printer.
+
+#### notepad /A example_a.txt
 
